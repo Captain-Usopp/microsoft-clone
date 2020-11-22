@@ -1,13 +1,13 @@
 # Official Microsoft Homepage Clone
 
 A clone of official homepage of Microsoft using HTML5, CSS3 and a bit of JS.
-View the clone here [__view the clone__](https://captain-usopp.github.io/microsoft-clone/) AND View the Official homepage here [__visit the official site__](https://www.microsoft.com/en-in)
-__CAUTION__ : The Official keeps updating so few images/things might a different view.
+View the clone [__HERE__](https://captain-usopp.github.io/microsoft-clone/) AND View the Official homepage here [__HERE__](https://www.microsoft.com/en-in)<br />
+__CAUTION__ : The Official website keeps updating so few images/things might have a different view.
 
 ## Features
 
 * It's a full responsive website clone
-* Comes with a hamburger menu for smaller screens
+* Comes with a __hamburger menu__ for smaller screens
 * Build using __Flexbox__, __Grid__ and other CSS3 features
 
 ## Acknowledgement
